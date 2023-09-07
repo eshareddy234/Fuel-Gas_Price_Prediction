@@ -3,8 +3,8 @@
 >
 # Task
 >The goal of this project is to study about gas prices across different states and regions of Brazil. Further we need to find -
-1. Analysis of products - most frequent product in each state, in each year, maximum,minimum average price of different products etc.
-2. Create a Model for price prediction.
+> 1. Analysis of products - most frequent product in each state, in each year, maximum,minimum average price of different products etc.
+> 2. Create a Model for price prediction.
 >
 >
 # Data
